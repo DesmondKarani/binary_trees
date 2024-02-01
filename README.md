@@ -13,7 +13,7 @@ This project is focused on the implementation and understanding of binary trees 
 ## Installation and Usage
 - Clone the repository: `git clone git@github.com:DesmondKarani/binary_trees.git`
 - Compile the files using gcc: `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c`
-- Run the executable: `./[executable name]`
+- Run the executable
 
 ## Project Structure
 - `binary_trees.h`: Header file containing all function prototypes and the basic structure of a binary tree.
@@ -36,5 +36,5 @@ This project is focused on the implementation and understanding of binary trees 
 - Desmond Karani
 
 ## Acknowledgments
-- Thanks to [Course/Program Name] for providing the project guidelines and learning materials.
+- Thanks to ALX-SE for providing the project guidelines and learning materials.
 - Acknowledge any other contributors or sources of inspiration.
